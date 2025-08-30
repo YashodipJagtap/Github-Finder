@@ -9,8 +9,9 @@
 6. [Impact](#impact)
 7. [Installation](#installation)
 8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [Screenshots](#screenshots)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ---
 
@@ -111,6 +112,16 @@ http://localhost:3000
 2. View the profile details that appear
 3. Click "Visit GitHub Profile" to see full profile
 4. Use "Clear" button to reset your search
+
+---
+
+## Screenshots
+
+### GitHub Finder Search Interface
+![GitHub Finder Search](screencapture-localhost-3000-Github-finder-2025-08-30-22_19_15.png)
+
+### User Profile View
+![User Profile View](screencapture-localhost-3000-user-YashodipJagtap-2025-08-30-22_19_29.png)
 
 ---
 
